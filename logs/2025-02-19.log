@@ -1,0 +1,48 @@
+
+	❯ Discord Tickets by eartharoid
+	❯ Powered by leekslazylogger v5.0.2
+	❯ Log level "info"
+	❯ Node.js v18.19.1 on linux
+	❯ Wednesday, 19 February 2025 at 10:19 AM (UTC) -->
+
+[19/02/25 10:19:01] [INFO] (AUTOCOMPLETE) @src/listeners/autocomplete/componentLoad.js:13:24 Loaded "category" autocompleter
+[19/02/25 10:19:01] [INFO] (AUTOCOMPLETE) @src/listeners/autocomplete/componentLoad.js:13:24 Loaded "references" autocompleter
+[19/02/25 10:19:01] [INFO] (AUTOCOMPLETE) @src/listeners/autocomplete/componentLoad.js:13:24 Loaded "tag" autocompleter
+[19/02/25 10:19:01] [INFO] (AUTOCOMPLETE) @src/listeners/autocomplete/componentLoad.js:13:24 Loaded "ticket" autocompleter
+[19/02/25 10:19:01] [INFO] (BUTTONS) @src/listeners/buttons/componentLoad.js:13:24 Loaded "claim" button
+[19/02/25 10:19:01] [INFO] (BUTTONS) @src/listeners/buttons/componentLoad.js:13:24 Loaded "close" button
+[19/02/25 10:19:01] [INFO] (BUTTONS) @src/listeners/buttons/componentLoad.js:13:24 Loaded "create" button
+[19/02/25 10:19:01] [INFO] (BUTTONS) @src/listeners/buttons/componentLoad.js:13:24 Loaded "edit" button
+[19/02/25 10:19:01] [INFO] (BUTTONS) @src/listeners/buttons/componentLoad.js:13:24 Loaded "unclaim" button
+[19/02/25 10:19:01] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "Create ticket from message" message command
+[19/02/25 10:19:01] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "Pin message" message command
+[19/02/25 10:19:01] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "add" slash command
+[19/02/25 10:19:01] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "claim" slash command
+[19/02/25 10:19:01] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "close" slash command
+[19/02/25 10:19:01] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "force-close" slash command
+[19/02/25 10:19:01] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "help" slash command
+[19/02/25 10:19:01] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "move" slash command
+[19/02/25 10:19:01] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "new" slash command
+[19/02/25 10:19:01] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "priority" slash command
+[19/02/25 10:19:01] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "release" slash command
+[19/02/25 10:19:01] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "remove" slash command
+[19/02/25 10:19:01] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "tag" slash command
+[19/02/25 10:19:01] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "tickets" slash command
+[19/02/25 10:19:01] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "topic" slash command
+[19/02/25 10:19:01] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "transcript" slash command
+[19/02/25 10:19:01] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "transfer" slash command
+[19/02/25 10:19:01] [INFO] (COMMANDS) @src/listeners/commands/componentLoad.js:18:24 Loaded "Create ticket for user" user command
+[19/02/25 10:19:01] [INFO] (MENUS) @src/listeners/menus/componentLoad.js:13:24 Loaded "create" menu
+[19/02/25 10:19:01] [INFO] (MODALS) @src/listeners/modals/componentLoad.js:13:24 Loaded "feedback" modal
+[19/02/25 10:19:01] [INFO] (MODALS) @src/listeners/modals/componentLoad.js:13:24 Loaded "questions" modal
+[19/02/25 10:19:01] [INFO] (MODALS) @src/listeners/modals/componentLoad.js:13:24 Loaded "topic" modal
+[19/02/25 10:19:02] [SUCCESS] (GLOBAL) @src/listeners/client/ready.js:36:14 Connected to Discord as "UniBot Ticket#1409"
+[19/02/25 10:19:02] [SUCCESS] (HTTP) @src/http.js:167:27 Listening at http://0.0.0.0:8169
+[19/02/25 10:19:03] [INFO] (GLOBAL) @src/lib/sync.js:69:13 Cached ticket count of 3 categories (0 open tickets)
+[19/02/25 10:19:03] [INFO] (GLOBAL) @src/lib/sync.js:70:13 Loaded 0 active cooldowns
+[19/02/25 10:19:03] [INFO] (GLOBAL) @src/lib/sync.js:71:13 Closed 0 deleted tickets
+[19/02/25 10:19:03] [INFO] (GLOBAL) @src/listeners/client/ready.js:42:15 Automatically publishing commands...
+[19/02/25 10:19:03] [INFO] (GLOBAL) @src/lib/updates.js:8:13 Checking for updates...
+[19/02/25 10:19:03] [SUCCESS] (GLOBAL) @src/listeners/client/ready.js:44:34 Published 18 commands
+[19/02/25 10:19:03] [SUCCESS] (GLOBAL) @src/listeners/client/ready.js:130:17 Posted client stats
+[19/02/25 10:19:03] [WARN] (GLOBAL) @src/lib/updates.js:31:50 Failed to find current release
